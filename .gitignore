@@ -134,4 +134,4 @@ models/
 .idea
 catboost_info/
 
-.DS_Store
+*.DS_Store
