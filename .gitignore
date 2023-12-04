@@ -133,3 +133,5 @@ model/
 models/
 .idea
 catboost_info/
+
+.DS_Store
